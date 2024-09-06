@@ -1,8 +1,3 @@
-# Vehicle-Insurance-Policy-Prediction
-Based on the provided content from your PowerPoint presentation, here is a README file suitable for a GitHub repository:
-
----
-
 # Vehicle Insurance Customer Response Prediction
 
 This repository contains a project focused on predicting customer responses using vehicle insurance data. The primary objective is to analyze and develop machine learning models that enhance the response rate and optimize marketing efforts for the insurance company.
